@@ -1,1 +1,1 @@
-[{ numero: 1000, grupo: "aguilas" }, { numero: 200, grupo: "g2" }, { numero: 1500, grupo: "g3" }, { numero: 1200, grupo: "g4" }, { numero: 150, grupo: "g5" }]
+[{ "numero": 1000, "grupo": "aguilas" }, { "numero": 200, "grupo": "g2" }, { "numero": 1500, "grupo": "g3" }, { "numero": 1200, "grupo": "g4" }, { "numero": 150, "grupo": "g5" }]
